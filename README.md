@@ -8,11 +8,10 @@ I'm an RPA developer, my work has allowed me to be collaborating with various co
 <br/>  
 - 🔭 I’m currently working on BDG
 <br/>
-- 🌱 I’m currently learning [UiPatht](https://www.uipath.com), [RobotCorp](https://robocorp.com)  
+- 🌱 I’m currently learning UiPath, RobotCorp
 <br/>
 - ❓ Ask me about anything related to RPA tools and related technologies  
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
